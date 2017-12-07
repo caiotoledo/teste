@@ -3,5 +3,5 @@
 
 int main ()
 {
-	printf("OPA\n");
+	printf("OPA2\n");
 }
