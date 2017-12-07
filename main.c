@@ -4,5 +4,5 @@
 int main ()
 {
 	printf("Hello World\n");
-	printf("Opa novamente\n");
+	printf("Opa novamente!\n");
 }
