@@ -5,5 +5,5 @@ int main ()
 {
 	printf("Hello World\n");
 	printf("Opa novamente!\n");
-	printf("Mais uma bobagem\n");
+	printf("Mais uma bobagem!!!\n");
 }
