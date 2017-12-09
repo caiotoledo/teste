@@ -12,5 +12,5 @@ int main ()
 	}
 	printf("Mais uma bobagem sem motivos!!!\n");
 	printf("Testando Alias!!\n");
-	printf("Caio Vinicius de Toledo\n");
+	printf("Author: Caio Vinicius de Toledo\n");
 }
