@@ -6,4 +6,5 @@ int main ()
 	printf("Hello World\n");
 	printf("OPAAA!\n");
 	printf("Mais uma bobagem sem motivos!!!\n");
+	printf("Testando Alias!!n");
 }
